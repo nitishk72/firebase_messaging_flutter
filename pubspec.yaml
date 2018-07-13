@@ -11,6 +11,9 @@ dependencies:
   firebase_core:
   firebase_messaging:
   firebase_database:
+  image_picker:
+  firebase_storage:
+  flutter_local_notifications:
 
 dev_dependencies:
   flutter_test:
